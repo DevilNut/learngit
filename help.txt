@@ -1,0 +1,6 @@
+Repository仓库，仓库存放代码，一个项目对应一个仓库
+Star收藏
+Fork复制克隆项目
+Watch关注，更新收到通知
+Pull request发起请求，申请merge代码
+Issue事物卡片，提交问题或想法或建议，申请讨论
